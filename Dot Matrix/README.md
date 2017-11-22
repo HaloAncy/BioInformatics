@@ -1,4 +1,5 @@
 # 点阵图（Dot Plots）
+
 又称为“矩阵作图法” 或“对角线作图法”
 
 由 Gibbs 首先提出，是一种较为经典的搜索两序列间公共子序列的方法，可以在不同尺度上和不同相似度上发现两个序列之间的相近部分。
@@ -11,15 +12,15 @@
 
 当对应的行与列上的字符匹配时，在矩阵的对应位置作出标记，逐个比较所有的字符对。
 <br/>
-![image](http://note.youdao.com/favicon.ico)
+![image](https://github.com/HaloAncy/BioInformatics/tree/master/jpg)
 
 如果两个序列之间存在一个相同的子串，则会存在一条与主对角线平行的由标记点构成的斜线与之对应。
 <br/>
-![image](http://note.youdao.com/favicon.ico)
+![image](https://github.com/HaloAncy/BioInformatics/blob/master/jpg/DM2.png)
 
 含有多个相同子序列的点阵图
 <br/>
-![image](http://note.youdao.com/favicon.ico)
+![image](https://github.com/HaloAncy/BioInformatics/blob/master/jpg/DM3.png)
 
 ## 最佳比对
 找到矩阵标记图中非重叠平行斜线的最长组合。
@@ -54,10 +55,12 @@
 
 ## 点阵分析中的插入或删除
 <br/>
-![image](http://note.youdao.com/favicon.ico)
+![image](https://github.com/HaloAncy/BioInformatics/blob/master/jpg/DM4.jpg)
 
 <br/>
+![image](https://github.com/HaloAncy/BioInformatics/blob/master/jpg/DM5.jpg)
 <br/>
+![image](https://github.com/HaloAncy/BioInformatics/blob/master/jpg/DM6.jpg)
 
 ```
 无ui unupdated
