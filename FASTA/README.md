@@ -4,7 +4,7 @@ FASTA程序是第一个广泛使用的数据库相似性搜索程序
 
 FastA算法是由Lipman和Pearson于1985年发表的，关于序列比对的启发式算法。
 <br/>以下链接是EBI提供的fasta服务。
-http://www.ebi.ac.uk/fasta33/ 
+<br/>http://www.ebi.ac.uk/fasta33/ 
 
 
 FASTA算法是**顺序**将数据库中的每一个序列与查询序列比较，返回与查询序列非常相似的数据库序列。
