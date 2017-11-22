@@ -17,7 +17,7 @@ FASTA算法是**顺序**将数据库中的每一个序列与查询序列比较�
 <br/>增大k参数就会减少子串命中的数目，也就会减少所需要的最佳搜索的数目，提高搜索速度。
 
 2. 找出两个序列具有最大匹配的相对位移。
-![image](http://note.youdao.com/favicon.ico)
+![](https://github.com/HaloAncy/BioInformatics/blob/master/jpg/Fasta1.jpg)  
 
 ### 算法设置两个数据结构表：
 
@@ -29,7 +29,7 @@ FASTA算法是**顺序**将数据库中的每一个序列与查询序列比较�
 
 位移决定一个序列相对于另一个发生
 <br/>如果共同的k元组起始于s[i]和t[j]，则位移等于i-j
-![image](http://note.youdao.com/favicon.ico)
+![](https://github.com/HaloAncy/BioInformatics/blob/master/jpg/Fasta2.jpg)  
 
 ### 位移累计最大值意义：
 该位移下匹配最多
