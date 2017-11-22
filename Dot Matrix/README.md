@@ -12,7 +12,7 @@
 
 当对应的行与列上的字符匹配时，在矩阵的对应位置作出标记，逐个比较所有的字符对。
 <br/>
-![](https://github.com/HaloAncy/BioInformatics/tree/master/jpg)
+![](https://github.com/HaloAncy/BioInformatics/blob/master/jpg/DM1.png)
 
 如果两个序列之间存在一个相同的子串，则会存在一条与主对角线平行的由标记点构成的斜线与之对应。
 <br/>
