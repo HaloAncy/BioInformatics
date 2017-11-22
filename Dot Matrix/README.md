@@ -55,11 +55,16 @@
 
 ## 点阵分析中的插入或删除
 <br/>
+
 ![](https://github.com/HaloAncy/BioInformatics/blob/master/jpg/DM4.jpg)
 
+效果
 <br/>
+
 ![](https://github.com/HaloAncy/BioInformatics/blob/master/jpg/DM5.jpg)
+
 <br/>
+
 ![](https://github.com/HaloAncy/BioInformatics/blob/master/jpg/DM6.jpg)
 
 ```
