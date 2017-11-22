@@ -12,15 +12,15 @@
 
 当对应的行与列上的字符匹配时，在矩阵的对应位置作出标记，逐个比较所有的字符对。
 <br/>
-![image](https://github.com/HaloAncy/BioInformatics/tree/master/jpg)
+![](https://github.com/HaloAncy/BioInformatics/tree/master/jpg)
 
 如果两个序列之间存在一个相同的子串，则会存在一条与主对角线平行的由标记点构成的斜线与之对应。
 <br/>
-![image](https://github.com/HaloAncy/BioInformatics/blob/master/jpg/DM2.png)
+![](https://github.com/HaloAncy/BioInformatics/blob/master/jpg/DM2.png)
 
 含有多个相同子序列的点阵图
 <br/>
-![image](https://github.com/HaloAncy/BioInformatics/blob/master/jpg/DM3.png)
+![](https://github.com/HaloAncy/BioInformatics/blob/master/jpg/DM3.png)
 
 ## 最佳比对
 找到矩阵标记图中非重叠平行斜线的最长组合。
@@ -55,12 +55,12 @@
 
 ## 点阵分析中的插入或删除
 <br/>
-![image](https://github.com/HaloAncy/BioInformatics/blob/master/jpg/DM4.jpg)
+![](https://github.com/HaloAncy/BioInformatics/blob/master/jpg/DM4.jpg)
 
 <br/>
-![image](https://github.com/HaloAncy/BioInformatics/blob/master/jpg/DM5.jpg)
+![](https://github.com/HaloAncy/BioInformatics/blob/master/jpg/DM5.jpg)
 <br/>
-![image](https://github.com/HaloAncy/BioInformatics/blob/master/jpg/DM6.jpg)
+![](https://github.com/HaloAncy/BioInformatics/blob/master/jpg/DM6.jpg)
 
 ```
 无ui unupdated
